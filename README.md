@@ -16,6 +16,7 @@ In this task, we implemented a fully functional deep learning library, akin to P
   - Loss Functions (Mean Squared Error, Cross-Entropy)
   - Batch Normalization
   - Stochastic Gradient Descent (SGD) with momentum
+  - Custom Autograd Engine for gradient computations
   
 - **Models Built**:
   - MLP with 0 hidden layers
